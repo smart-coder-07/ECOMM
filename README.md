@@ -1,6 +1,6 @@
-<p align="center">
-  <H1>Atul Dairy Shop
-  </p>
+<center>
+  <H1>Atul Dairy Shop</H1>
+<center>
 
 ---
 
