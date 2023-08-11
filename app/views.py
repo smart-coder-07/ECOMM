@@ -73,7 +73,7 @@ class CustomerRegistrationView(View):
         form = CustomerRegistrationForm(request.POST)
         if form.is_valid():
             form.save()
-            messages.success(request,"Congratulation! User Register Successfully")
+            messages.success(request,"Congratulation! User Register Successfully Please Login Now...")
         else:
             messages.warning(request,"Invalid Input Data?")
         return render(request, 'app/customerregistration.html',locals())
