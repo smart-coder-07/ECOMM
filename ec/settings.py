@@ -123,7 +123,7 @@ MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR/"media"
 LOGIN_REDIRECT_URL = "/profile/"
 
-STATIC_ROOT = 'staticfiles'
+
 
 
 # Default primary key field type
@@ -136,7 +136,3 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 RAZOR_KEY_ID = 'rzp_test_N8lD0tUxA9KiFH'
 RAZOR_KEY_SECRET = 'LT0dmEEhQziJhGBKAgnKdnRy'
 
-#static
-import os
-STATICFILES_DIRS = os.path.join(BASE_DIR,'staticfiles'),
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
