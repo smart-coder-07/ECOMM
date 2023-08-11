@@ -68,7 +68,7 @@ easily.
 
 <i>places you can find us:</i><br>
 
-<a href="https://www.linkedin.com/in/smart1atul/" target="_blank"><img src="![image](https://github.com/smart-coder-07/ECOMM/assets/128953865/062a75a0-bae8-4b07-b26e-4a91364f2fc6)
-" alt="Linkedin"></a>
+
+<a href="https://www.linkedin.com/in/smart1atul/" target="_blank">![R](https://github.com/smart-coder-07/ECOMM/assets/128953865/23e88659-3451-4fb7-ba07-12b6aaa9a426)</a>
 
 </div>
